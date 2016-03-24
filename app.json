@@ -1,0 +1,8 @@
+{
+  "name": "phoenix_heroku_sample",
+  "description": "A sample phoenix app",
+  "image": "joshwlewis/docker-heroku-phoenix:latest",
+  "addons": [
+    "heroku-postgresql"
+  ]
+}
